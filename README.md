@@ -147,6 +147,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app/pricing) | Track apps, sites, and documents, organize projects, and turn hours into invoices on Mac. | 50% off: Lifetime $149 → $74.50; Personal $99 → $49.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
 | 💰 | [Presentify](https://presentifyapp.com) | Annotate your screen, highlight clicks, spotlight, and zoom during presentations and calls on Mac. | 30% off ($14 → $9.80) | **PRESENTIFY30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
 | 💸 | [Shiori](https://shioriapp.io) | Bookmark manager with tags and folders for Mac, web, and Chrome. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
+| 💰 | [Email Me](https://emailmeapp.net/) | Note-to-self app: send notes, voice memos with AI transcription, images and links to your email inbox in one tap. | 23% off | Automatically applied; yearly Premium plan ~~$12.99~~ $9.99; 2026-11-27 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -173,6 +174,9 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [MingCute UI](https://ui.mingcute.com/?utm_source=mrsbf) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [Animation Icons](https://www.mingcute.com/animation?utm_source=mrsbf) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [Weather Icons](https://mgcweather.framer.website/?utm_source=mrsbf) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💸 | [Digital Photo Frame App](https://digitalphotoframeapp.com/) | Turns your iPhone, iPad, Mac or Apple TV into a digital photo frame, with slideshows from iCloud shared albums and Google Photos. | 50% off | Automatically applied; yearly Premium plan ~~$19.99~~ $9.99; 2026-11-27 to 2026-12-01 |
+| 💸 | [Our Family Album](https://apps.apple.com/us/app/our-family-album/id6790241302) | Private family photo sharing: invite grandparents to the app or share read-only browser links, no account needed for viewers. | 50% off | Automatically applied; yearly Premium plan ~~$49.99~~ $24.99; 2026-11-27 to 2026-12-01 |
+| 💸 | [Photo Booth App](https://apps.apple.com/us/app/photo-booth-app-for-events/id6758273611) | Turns your iPhone or iPad into an event photo booth with custom templates, guest photo sharing and AirPrint printing. | 50% off | Automatically applied; yearly Premium plan ~~$99.99~~ $49.99; 2026-11-27 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
